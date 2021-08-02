@@ -1,6 +1,5 @@
 # NURTOWN_PROJECT
 Архитектурный сайт, первый проект.
-Исполнители: Олеся Вовк, AnastasiyaMAV, Larisa Liebner, Natali, Olga Kr.
 
 В общей папке проекта NURTOWN_PROJECT хранятся следующие файлы: 
 - index.html отвечает за страницу "Главная";
